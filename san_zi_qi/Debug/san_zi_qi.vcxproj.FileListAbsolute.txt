@@ -1,0 +1,2 @@
+D:\语言\代码测试、学习\C\c_code_study\san_zi_qi\Debug\san_zi_qi.exe
+D:\语言\代码测试、学习\C\c_code_study\san_zi_qi\Debug\san_zi_qi.pdb
