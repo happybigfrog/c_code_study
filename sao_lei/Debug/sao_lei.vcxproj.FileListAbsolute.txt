@@ -1,0 +1,2 @@
+D:\语言\代码测试、学习\C\c_code_study\sao_lei\Debug\sao_lei.exe
+D:\语言\代码测试、学习\C\c_code_study\sao_lei\Debug\sao_lei.pdb
