@@ -52,7 +52,7 @@ void text()
 		}
 	} while (input);
 }
-
+//É¨À×
 int main()
 {
 	text();
